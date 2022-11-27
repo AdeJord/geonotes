@@ -1,0 +1,9 @@
+.home-main {
+    text-align: center;
+}
+
+.home-header {
+    font-size: calc( 20px + 1vw );
+    padding: 15px;
+    background-color: rgb(219, 134, 134);
+}

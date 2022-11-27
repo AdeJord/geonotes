@@ -1,0 +1,11 @@
+.side-drawer {
+    position: fixed;
+    left: 0;
+    top: 0;
+    z-index: 100;
+    height: auto;
+    width: 40%;
+    background: #f7c14d;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+  }
+  

@@ -1,0 +1,16 @@
+.map-main {
+    padding: 20px;
+    height: 60vh;
+    width: 100%;
+    }
+    
+.map-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    height: 20rem;
+    width: 100%;
+    padding-top: 5px;
+    }
+
+
